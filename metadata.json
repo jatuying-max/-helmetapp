@@ -1,0 +1,7 @@
+{
+  "description": "Helmet Safety Campaign with Voice AI",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Helmet Safety App"
+}
